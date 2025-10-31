@@ -1,2 +1,3 @@
 # jasurOlimp-bot
+requirements.txt
 
